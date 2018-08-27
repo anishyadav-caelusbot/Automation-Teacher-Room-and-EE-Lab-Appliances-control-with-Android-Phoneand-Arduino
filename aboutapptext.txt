@@ -1,0 +1,6 @@
+# Developed by: Anish yadav <!--
+
+
+
+
+This App was developed under Final Year project " Design and implementation of switching circuit using Arduino" by Students of  B.Tech  EE (Batch 2014 2018) ,Electrical Engineering Department, BUEST.   # Project Contributers: Ajay Jaswal, Anshul Chauhan, Avinash Chandel, Majhail Singh, Ritesh Thakur, Vijay Pal, Nikhil Thakur, Neetu Kumari.   # Project Supervisor: Bhupinder Singh.  
